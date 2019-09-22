@@ -7,7 +7,8 @@ export default class App extends Component {
     render() {
         return (
             <div>
-                {/* <Route path="/" component={EventSearch} /> */}
+                {/* <Route path="/" corch} /> */}
+                1111111
                 <Route path="/eventsearch" component={EventSearch} />
                 <Route path="/eventmanage" component={EventManage} />
                 <Route path="/attrmanage" component={AttrManage} />
