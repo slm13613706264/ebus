@@ -7,7 +7,7 @@ export default class App extends Component {
     render() {
         return (
             <div>
-                {/* <Route path="/" component={EventSearch} /> */}
+                {/* <Route path="/" component={EventSearch123} /> */}
                 <Route path="/eventsearch" component={EventSearch} />
                 <Route path="/eventmanage" component={EventManage} />
                 <Route path="/attrmanage" component={AttrManage} />
